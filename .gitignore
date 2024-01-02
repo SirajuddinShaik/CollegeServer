@@ -17,6 +17,7 @@ logs
 # Optional: Editor directories and files
 .vscode/
 .idea/
+public/
 *.suo
 *.ntvs*
 *.njsproj
