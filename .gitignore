@@ -18,6 +18,7 @@ logs
 .vscode/
 .idea/
 public/
+bin/
 *.suo
 *.ntvs*
 *.njsproj
