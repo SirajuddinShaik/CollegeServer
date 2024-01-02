@@ -19,7 +19,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, "dbase")));
 
-const uri = process.env.uri;
+const uri = process.env.URI;
 mongoose
   .connect(uri, {
     useNewUrlParser: true,
