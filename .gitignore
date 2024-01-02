@@ -23,6 +23,7 @@ bin/
 *.ntvs*
 *.njsproj
 *.sln
+*.wav
 
 # Optional: OS generated files
 Thumbs.db
